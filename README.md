@@ -1,2 +1,3 @@
-# code_sample
-Ruby, Javascript code samples
+# Code samples
+- Ruby sample files
+- Javascript sample files
